@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Thiago 👋
 
-<!--
-**thiagomiracode/thiagomiracode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with solid experience in PHP, Python, JavaScript, and React.
+Currently deepening my expertise in Artificial Intelligence, focusing on intelligent systems,
+automation, and data-driven applications.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Backend: PHP, Python
+- Frontend: JavaScript, React
+- Databases: MySQL, PostgreSQL
+- AI & Data: Machine Learning, LLMs, RAG, Data Analysis
+- Tools: Git, Docker, Linux, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- AI-powered applications
+- Backend systems with scalable architectures
+- Automation and intelligent document processing
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/seu-link
