@@ -17,4 +17,4 @@ automation, and data-driven applications.
 - Automation and intelligent document processing
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/seu-link
+- LinkedIn: https://linkedin.com/in/thiago-mira-050a993a4
